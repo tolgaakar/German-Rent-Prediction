@@ -1,0 +1,13 @@
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.5.2
+scipy==1.13.1
+matplotlib==3.8.0
+matplotlib-inline==0.1.7
+matplotlib-venn==1.1.1
+seaborn==0.13.2
+catboost==1.2.7
+openai==1.54.4
+transformers==4.46.2
+sentence-transformers==3.2.1
+sentencepiece==0.2.0
